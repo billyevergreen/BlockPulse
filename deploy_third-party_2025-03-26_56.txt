@@ -1,0 +1,1 @@
+Deploy third-party authentication for error (major) - Implemented a new feature to enhance third-party authentication.
