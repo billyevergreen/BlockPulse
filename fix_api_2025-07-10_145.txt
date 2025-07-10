@@ -1,0 +1,1 @@
+Fix API response for error (urgent) - Implemented a new feature to enhance API response.
