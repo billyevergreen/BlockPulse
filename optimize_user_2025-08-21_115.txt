@@ -1,0 +1,1 @@
+Optimize user input for CI/CD (major) - Implemented a new feature to enhance user input.
