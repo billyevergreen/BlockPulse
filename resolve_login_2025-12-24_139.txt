@@ -1,0 +1,1 @@
+Resolve login for integration (major) - Implemented a new feature to enhance login.
